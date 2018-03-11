@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "*.jsx": "javascript",
+        "*.ipp": "c",
+        "kmemcheck.h": "c",
+        "hugetlb.h": "c",
+        "uaccess.h": "c",
+        "cacheflush.h": "c",
+        "fdtable.h": "c",
+        "file.h": "c",
+        "freezer.h": "c",
+        "rtc.h": "c",
+        "array": "c",
+        "hash_map": "c",
+        "hash_set": "c",
+        "initializer_list": "c",
+        "string_view": "c",
+        "utility": "c",
+        "thread": "c",
+        "typeinfo": "c",
+        "time.h": "c",
+        "seq_file.h": "c",
+        "vmalloc.h": "c",
+        "chrono": "c",
+        "ratio": "c",
+        "type_traits": "c",
+        "nsproxy.h": "c",
+        "mutex.h": "c"
+    }
+}
