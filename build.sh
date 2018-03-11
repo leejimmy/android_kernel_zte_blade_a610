@@ -1,5 +1,6 @@
 #!/bin/bash
-export CROSS_COMPILE=/home/mosya234/RR/kernel/zte/a610/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+KERNEL_DIR=$PWD
+export CROSS_COMPILE=$PWD/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 export USE_CCACHE=1
 export ARCH=arm64 ARCH_MTK_PLATFORM=mt6735
 export TARGET=out
